@@ -1,3 +1,5 @@
+Adding a new line to see commit changes
+
 === WP eCommerce ===
 Contributors: JustinSainton
 Donate link: https://wpecommerce.org
