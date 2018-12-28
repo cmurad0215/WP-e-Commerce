@@ -1,4 +1,5 @@
 Adding a new line to see commit changes
+This is to see new jenkins update code
 
 === WP eCommerce ===
 Contributors: JustinSainton
