@@ -1,7 +1,7 @@
 Adding a new line to see commit changes
 This is to see new jenkins update code
 
-=== WP eCommerce ===
+=== WP eCommerce === check commit
 Contributors: JustinSainton
 Donate link: https://wpecommerce.org
 Tags: e-commerce, digital downloads, wp-e-commerce, shop, cart, paypal, authorize, stock control, ecommerce, shipping, tax
